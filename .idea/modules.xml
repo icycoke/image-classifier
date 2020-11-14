@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidCamera-master.iml" filepath="$PROJECT_DIR$/AndroidCamera-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ImageClassifier.iml" filepath="$PROJECT_DIR$/.idea/modules/ImageClassifier.iml" group="ImageClassifier" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ImageClassifier-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ImageClassifier-app.iml" group="ImageClassifier/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
