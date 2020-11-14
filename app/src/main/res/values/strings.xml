@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name">Android TensorFlow Demo</string>
+    <string name="app_name">TensorFlow Classifier</string>
     <string name="action_settings">Settings</string>
     <string name="btn_take_picture">Take Picture</string>
+
+    <string name="take_pic_by_camera">Take picture by camera</string>
+    <string name="import_pic_from_file">Import pictures from file</string>
+
+    <string name="no_pic_to_import">No pic to import!</string>
+    <string name="importing">Importing...</string>
+    <string name="classification_done">Classification done!</string>
 </resources>

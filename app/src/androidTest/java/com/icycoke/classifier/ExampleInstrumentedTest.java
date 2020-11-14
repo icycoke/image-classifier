@@ -1,4 +1,4 @@
-package info.androidhive.androidcamera;
+package com.icycoke.classifier;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

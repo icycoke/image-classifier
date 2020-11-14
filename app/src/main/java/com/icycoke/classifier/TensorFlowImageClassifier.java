@@ -1,4 +1,4 @@
-package info.androidhive.androidcamera;
+package com.icycoke.classifier;
 
 import android.annotation.SuppressLint;
 import android.content.res.AssetFileDescriptor;
@@ -19,10 +19,6 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.PriorityQueue;
-
-/**
- * Created by amitshekhar on 17/03/18.
- */
 
 public class TensorFlowImageClassifier implements Classifier {
 

@@ -1,4 +1,4 @@
-package info.androidhive.androidcamera;
+package com.icycoke.classifier;
 
 import org.junit.Test;
 
