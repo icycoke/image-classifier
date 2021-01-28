@@ -53,8 +53,8 @@ public class MainActivity extends AppCompatActivity
     private static final int IMPORT_PIC_FROM_FILES = 1;
 
     //tensorflow
-    private static final String MODEL_PATH = "mobilenet_quant_v1_224.tflite";
-    private static final boolean QUANT = true;
+    private static final String MODEL_PATH = "mobilenet_float_v1_224.tflite";
+    private static final boolean QUANT = false;
     private static final String LABEL_PATH = "labels.txt";
     private static final int INPUT_SIZE = 224;
     private static String imageStoragePath;
